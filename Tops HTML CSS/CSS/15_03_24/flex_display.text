@@ -1,0 +1,17 @@
+
+flex means set values/element flexibly in row
+
+list of property which is only effected while applying display flex
+
+(1)flex-grow
+(2)flex-shrink
+(3)flex-basis
+(4)flex
+(5)flex-direction
+(6)flex-wrap
+(7)flex-flow
+(8)gap {row-gap, column-gap}
+(9)justify content
+(10)aligh-items
+(11)align-content
+(12)order
